@@ -1,0 +1,55 @@
+.top_buffer{
+	margin-top: 80px;
+	display: inline-block;
+}
+.top_buffer1{
+	margin-top: 40px;
+}
+.top_buffer_table{
+	margin-top: 20px;
+}
+.h2_buffer, .h2_buffer1{
+	display: inline-block;
+}
+.h2_buffer{
+	margin-right: 830px;
+}
+.h2_buffer1{
+	margin-right: 710px;
+}
+.thead{
+	background-color: rgb(200,200,200);
+}
+.left_buffer{
+	margin-left: 30px;
+}
+.left_buffer1{
+	margin-left: 120px;
+}
+.textarea_buffer{
+	width: 810px;
+	resize: none;
+}
+.textarea_buffer1{
+	width: 760px;
+	resize: none;
+}
+.div_height{
+	height: 100px;
+}
+.inline_block{
+	display: inline-block;
+}
+.align_right{
+	text-align: right;
+}
+.div_box{
+	width: 403px;
+}
+.div_box1{
+	width: 353px;
+}
+.div_buffer{
+	margin-top: 10px;
+	margin-left: 50px;
+}
